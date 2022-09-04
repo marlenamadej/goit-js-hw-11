@@ -9,7 +9,7 @@ const input = document.querySelector('input');
 const searchBtn = document.querySelector(`button[type="submit"]`);
 const gallery = document.querySelector('.gallery');
 
-const API_KEY = '29396920-d4426056c3f6851287cd3980f';
+const API_KEY = '29713340-fd2b50d28e9b5867c462598da';
 const perPage = 40;
 let page = 1;
 const lightbox = new simpleLightbox('.gallery a');
